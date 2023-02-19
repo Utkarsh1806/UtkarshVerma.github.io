@@ -27,7 +27,7 @@ body {
 }
 
 .logo {
-    border-radius: 100px;
+    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -305,4 +305,8 @@ nav .fas{
         font-size: 14px;
     }
            
+}
+#msg{
+    color: #61b752;
+    margin-top: -40px;
 }
